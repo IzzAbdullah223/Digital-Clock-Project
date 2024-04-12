@@ -15,7 +15,6 @@ body{
     text-align: center;
     font-family: monospace;
     font-size: 6.5rem;
-    font-weight: bold;
     color: white;
     backdrop-filter: blur(6px);
     width: 250vh;
